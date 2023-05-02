@@ -213,7 +213,7 @@ Forms\Components\Select::make('type')
 
 #### "Date of birth" picker
 
-Since we have a `date_of_birth` column in our database, we will need to also add a field for that. A [date picker](../forms/fields/date-time-picker) is suitable:
+Since we have a `date_of_birth` column in our database, we will need to also add a field for that. A [date picker](../forms/docs/03-fields/08-date-time-picker) is suitable:
 
 ```php
 use Filament\Forms;
